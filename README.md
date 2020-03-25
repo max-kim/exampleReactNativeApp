@@ -2,7 +2,7 @@
 
 ## Installation
 
-You can install 'sORM' with these commands:
+You can install App with these commands:
 ```bash
     $ git clone https://github.com/max-kim/exampleReactNativeApp.git
     $ cd exampleReactNativeApp
