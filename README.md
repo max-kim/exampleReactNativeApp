@@ -8,8 +8,6 @@ You can install App with these commands:
     $ cd exampleReactNativeApp
     $ npm install
     $ cd ./ios && pod install && cd ..
-    $ react-native start
-    $ react-native run-android
 ```
 
 ## Usage
